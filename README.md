@@ -13,19 +13,18 @@ Python
 ### Installation
 
 ## Linux
-apt install python -y
-apt install git -y
-git clone https://github.com/Ampfar10/Youtube-downloader
-pip install -r requirements.txt
+1. apt install python -y
+2. apt install git -y
+3. git clone https://github.com/Ampfar10/Youtube-downloader
+4. pip install -r requirements.txt
+5.  ```sh
+   npm install
+   ```
 
 ## windows
 
 
 
 ## Usage
-
-### Linux
-
-### windows
 python main.py
 
