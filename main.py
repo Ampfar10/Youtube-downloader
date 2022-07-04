@@ -53,7 +53,7 @@ if type == "mp3":
 
 elif type == "mp4":
     download_ytvid_as_mp4()
-    music1 = input("Would you like to download mp4 as well: ")
+    music1 = input("Would you like to download mp3 as well: ")
     if music1 == "yes" or music1 == "yes":
         download_ytvid_as_mp3()
     elif music1 == "no" or music1 == "No":
