@@ -17,13 +17,12 @@ Python
 2. apt install git -y
 3. git clone https://github.com/Ampfar10/Youtube-downloader
 4. pip install -r requirements.txt
-5.  ```sh
-   npm install
-   ```
 
 ## windows
-
-
+1. Download python from this website https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe
+2. Download git from here https://git-scm.com/download/win
+3. git clone https://github.com/Ampfar10/Youtube-downloader
+4. pip install -r requirements.txt
 
 ## Usage
 python main.py
